@@ -1,0 +1,66 @@
+#first {
+  background-color: #0066cc;
+  color: white;
+
+}
+.x{
+   font-family: "Lucida Console", Courier, monospace;
+}
+
+.black{
+  background-color: black;
+}
+
+#second{
+  background-color: white;
+}
+
+#menu{
+  padding-top: 25px;
+}
+#xx{
+   font-weight: bold;
+}
+
+#third{
+  color: white;
+  text-align: center;
+  padding: 100px 200px 150px 200px;
+}
+#forth{
+  color: #4d4d4d;
+  font-weight: bold;
+}
+#yy{
+  color: #808080;
+  text-align: center;
+  padding: 100px 50px 100px 50px;
+}
+.img{
+height: 100px;
+width: 100px
+}
+.kenar {
+   border-right: : 2px solid #8c8c8c;
+}
+
+#sag{
+  background-color: #cccccc;
+}
+
+#sol{
+  background-color:  #a6a6a6;
+}
+#aa{
+   font-weight: bold;
+}
+
+.mavi{
+  color: white;
+  background-color:   #3385ff;
+  text-align: center;
+  padding: 100px 50px 100px 50px;
+}
+.bb{
+  background-color: #0059b3
+}
