@@ -1,6 +1,8 @@
 #first {
   background-color: #0066cc;
   color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
 
 }
 .x{
@@ -62,5 +64,43 @@ width: 100px
   padding: 100px 50px 100px 50px;
 }
 .bb{
-  background-color: #0059b3
+  background-color: #0059b3;
+  padding: 50px 50px 50px 50px;
 }
+#fifth{
+  color: #3366ff;
+  font-weight: bold;
+}
+#cc{
+  padding: 50px 100px 50px 50px;
+}
+
+.logo{
+  height: 50px;
+  width: 50px
+}
+
+.gray{
+  background-color: #bfbfbf;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+ #zz{
+   background-color: #3385ff;
+   color: white;
+   padding-top: 100px;
+ }
+
+
+ .asimetrikBox {
+ 	clip-path: polygon(0 0, 100% 10%, 100% 100%, 0% 100%);
+ 	border-radius: 5px;
+ 	background-color: #006cb7;
+ 	margin-top: -55px;
+ 	padding: 50px;
+ 	color: whitesmoke;
+
+
+ }
